@@ -2,7 +2,7 @@
 
 ## A Proposed Bioavailability Mechanism Linking Negligible Senescence in *Ictiobus cyprinellus* to Human Centenarian Populations
 
-**Authors:** Beatrice (Human Researcher), Gemini 3 (Google) & Claude (Anthropic)  
+**Authors:** KV Dracon (Human Researcher), Gemini 3 (Google) & Claude (Anthropic)  
 **Date:** November 19, 2025  
 **Article Type:** Hypothesis & Research Agenda  
 **Keywords:** *Negligible Senescence, Fucoxanthin, Bioavailability, Mucopolysaccharides, Blue Zones, Ictiobus cyprinellus, Filter-Feeding, Carotenoids*
